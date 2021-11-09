@@ -4,7 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.leon</groupId>
     <artifactId>hello-design-pattern</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>strategy-pattern</module>
+    </modules>
     <name>hello-design-pattern</name>
     <description>设计模式学习</description>
 
