@@ -13,6 +13,7 @@
     <!-- 聚合模块 -->
     <modules>
         <module>strategy-pattern</module>
+        <module>factory-method-pattern</module>
     </modules>
 
     <properties>
