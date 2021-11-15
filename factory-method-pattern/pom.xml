@@ -19,8 +19,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.leon.common</groupId>
-            <artifactId>hello-design-common</artifactId>
+            <groupId>com.leon</groupId>
+            <artifactId>factory-method-award</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>

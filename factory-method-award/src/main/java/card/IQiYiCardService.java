@@ -1,4 +1,4 @@
-package com.leon.common.card;
+package card;
 
 /**
  * /**

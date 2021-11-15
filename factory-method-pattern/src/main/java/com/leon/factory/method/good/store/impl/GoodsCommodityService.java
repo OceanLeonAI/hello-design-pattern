@@ -1,9 +1,9 @@
 package com.leon.factory.method.good.store.impl;
 
 import com.alibaba.fastjson.JSON;
-import com.leon.common.goods.DeliverReq;
-import com.leon.common.goods.GoodsService;
 import com.leon.factory.method.good.store.ICommodity;
+import goods.DeliverReq;
+import goods.GoodsService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

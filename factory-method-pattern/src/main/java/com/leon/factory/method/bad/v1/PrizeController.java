@@ -1,11 +1,11 @@
 package com.leon.factory.method.bad.v1;
 
+import card.IQiYiCardService;
 import com.alibaba.fastjson.JSON;
-import com.leon.common.card.IQiYiCardService;
-import com.leon.common.coupon.CouponResult;
-import com.leon.common.coupon.CouponService;
-import com.leon.common.goods.DeliverReq;
-import com.leon.common.goods.GoodsService;
+import coupon.CouponResult;
+import coupon.CouponService;
+import goods.DeliverReq;
+import goods.GoodsService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

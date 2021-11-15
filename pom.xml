@@ -13,8 +13,8 @@
     <!-- 聚合模块 -->
     <modules>
         <module>strategy-pattern</module>
+        <module>factory-method-award</module>
         <module>factory-method-pattern</module>
-        <module>hello-design-common</module>
     </modules>
 
     <properties>

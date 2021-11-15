@@ -1,4 +1,4 @@
-package com.leon.common.coupon;
+package coupon;
 
 /**
  * 模拟优惠券服务

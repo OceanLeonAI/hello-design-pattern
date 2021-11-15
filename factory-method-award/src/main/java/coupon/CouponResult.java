@@ -1,4 +1,4 @@
-package com.leon.common.coupon;
+package coupon;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.leon.common.goods;
+package goods;
 
 import com.alibaba.fastjson.JSON;
 
