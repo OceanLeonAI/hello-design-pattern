@@ -17,6 +17,8 @@
         <module>factory-method-pattern</module>
         <module>abstract-factory-redis</module>
         <module>abstract-factory-pattern</module>
+        <module>builder-house-decoration</module>
+        <module>builder-pattern</module>
     </modules>
 
     <properties>
