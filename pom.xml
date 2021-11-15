@@ -15,6 +15,8 @@
         <module>strategy-pattern</module>
         <module>factory-method-award</module>
         <module>factory-method-pattern</module>
+        <module>abstract-factory-redis</module>
+        <module>abstract-factory-pattern</module>
     </modules>
 
     <properties>
