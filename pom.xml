@@ -19,6 +19,8 @@
         <module>abstract-factory-pattern</module>
         <module>builder-house-decoration</module>
         <module>builder-pattern</module>
+        <module>prototype-exam</module>
+        <module>prototype-pattern</module>
     </modules>
 
     <properties>
