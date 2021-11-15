@@ -21,6 +21,7 @@
         <module>builder-pattern</module>
         <module>prototype-exam</module>
         <module>prototype-pattern</module>
+        <module>singleton-pattern</module>
     </modules>
 
     <properties>
