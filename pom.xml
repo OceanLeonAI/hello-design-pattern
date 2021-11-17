@@ -22,6 +22,8 @@
         <module>prototype-exam</module>
         <module>prototype-pattern</module>
         <module>singleton-pattern</module>
+        <module>adapter-mq</module>
+        <module>adapter-pattern</module>
     </modules>
 
     <properties>
