@@ -15,7 +15,7 @@ import java.math.BigDecimal;
 public class BadTest {
 
     @Test
-    public void test_DecorationPackageController() {
+    public void testDecorationPackageController() {
         DecorationPackageController decoration = new DecorationPackageController();
 
         // 豪华欧式
