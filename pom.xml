@@ -24,6 +24,8 @@
         <module>singleton-pattern</module>
         <module>adapter-mq</module>
         <module>adapter-pattern</module>
+        <module>bridge-pay</module>
+        <module>bridge-pattern</module>
     </modules>
 
     <properties>
